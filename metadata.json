@@ -1,0 +1,8 @@
+{
+  "name": "Phần mềm quản lý văn bản",
+  "description": "Hệ thống quản lý công văn, văn bản đến và đi với hỗ trợ nạp tệp từ ổ đĩa máy tính, xem trước/tải về, phân quyền Chỉ huy - Cán bộ, quản lý đa tài khoản, cảnh báo hạn xử lý và sao lưu JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
